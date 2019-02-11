@@ -1,0 +1,10 @@
+.buttons {
+    background-image: url("../FooterComponents/footer_icons.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    max-width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 60px;
+}

@@ -3,7 +3,9 @@
     border: 1.2px solid #e7edf0;
     border-radius: 8px;
     width: 715px;
+    transition: .3s ease-in-out;
 }
+
 
 
 .card-container .reactImg {
@@ -29,6 +31,7 @@
 
 .card-content h6 {
     font-size: 1rem;
+    width: 98%;
     font-weight: 300;
     margin: 0;
 }
