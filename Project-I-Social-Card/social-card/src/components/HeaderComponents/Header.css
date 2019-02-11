@@ -1,1 +1,42 @@
 /* All styles for your header Components live here */
+
+.header-info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.profile-img img {
+    width: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top: 35px;
+}
+
+.Header-title {
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    align-items: center;
+}
+
+.Header-title h1 {
+    font-size: 1rem;
+    color: rgb(31, 31, 31);
+    margin-left: 60px;
+}
+
+.Header-title h2, p {
+
+    font-size: 1rem;
+    padding-left: 10px;
+    color: #97a4b0;
+    font-weight: 400;
+}
+
+.header-content p {
+    color: rgb(24, 24, 24);
+    padding-left: 60px;
+    margin-top: 0;
+
+}
