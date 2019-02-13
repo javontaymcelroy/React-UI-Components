@@ -1,0 +1,54 @@
+
+.button-wrapper {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    border-radius: 10px;
+    height: 60px;
+    margin: 20px;
+    color: white;
+    flex: 1;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+  }
+
+  .button-wrapper:hover {
+    transition: .2s ease-in-out;
+    background-color: #2e2e2e;
+  }
+  
+  .operator {
+    background-color: #a0001e;
+    color: #ffffff;
+    transition: .4s ease-in-out;
+  }
+
+  .operator:hover {
+    transition: .4s ease-in-out;
+    filter: brightness(120%);
+  }
+
+  .clear-btn {
+    height: 4em;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #4bebc5;
+    box-shadow: 0px 0px 15px #4bebc64b;
+    margin-top: 25px;
+    color: white;
+    flex: 1;
+    cursor: pointer;
+    transition: .4s ease-in-out;
+  }
+
+  .clear-btn:hover {
+    transition: .4s ease-in-out;
+    filter: brightness(110%);
+  }

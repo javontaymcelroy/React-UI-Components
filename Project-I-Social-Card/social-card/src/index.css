@@ -1,5 +1,16 @@
+html {
+  background: #e6ecf0;
+}
+
 body {
   margin: 0;
-  padding: 0.4rem;
-  font-family: sans-serif;
+  padding-top: 10px;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
 }

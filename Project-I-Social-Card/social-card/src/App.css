@@ -2,3 +2,16 @@
   Write your styles/CSS for App.js here and import into the component that you need 
   IF you'd like to attempt to use less you'll have to research how to do this with Create React App
 */
+.App {
+  width: 800px;
+  border-radius: 8px;
+  margin: 0 auto;
+  padding: 15px;
+  background: white;
+  transition: .3s ease-in-out;
+}
+
+.App:hover {
+  transition: .3s ease-in-out;
+  background: #f5f8fa;
+}
