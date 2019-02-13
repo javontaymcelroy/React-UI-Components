@@ -17,7 +17,7 @@
 
   .button-wrapper:hover {
     transition: .2s ease-in-out;
-    background-color: #080a0f9c;
+    background-color: #2e2e2e;
   }
   
   .operator {
